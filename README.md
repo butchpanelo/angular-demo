@@ -6,13 +6,13 @@
 3. Install project dependencies:
     npm install
 
-4. Install json-server 
+4. Install json-server:
     npm install -g json-server
 
-5. Start json-server
+5. Start json-server:
     json-server --watch db.json
     
-6. Start Demo
+6. Start Demo:
     ng serve
 
 7. Browse to http://localhost:4200
